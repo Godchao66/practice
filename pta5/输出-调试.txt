@@ -1,0 +1,14 @@
+﻿“pta5.exe”(Win32): 已加载“D:\pta\pta5\Debug\pta5.exe”。已加载符号。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\apphelp.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+线程 0x5884 已退出，返回值为 0 (0x0)。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+“pta5.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+线程 0x78f8 已退出，返回值为 0 (0x0)。
+线程 0x7c7c 已退出，返回值为 0 (0x0)。
+程序“[34932] pta5.exe”已退出，返回值为 0 (0x0)。
