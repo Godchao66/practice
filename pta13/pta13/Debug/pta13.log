@@ -1,0 +1,3 @@
+﻿  pta13.cpp
+D:\pta\pta13\pta13\pta13.cpp(13,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  pta13.vcxproj -> D:\pta\pta13\Debug\pta13.exe
