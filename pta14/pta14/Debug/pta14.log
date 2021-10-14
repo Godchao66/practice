@@ -1,0 +1,5 @@
+﻿  pta14.cpp
+D:\pta\pta14\pta14\pta14.cpp(14,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\pta\pta14\pta14\pta14.cpp(18,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\pta\pta14\pta14\pta14.cpp(22,14): warning C4018: “<=”: 有符号/无符号不匹配
+  pta14.vcxproj -> D:\pta\pta14\Debug\pta14.exe
