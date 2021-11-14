@@ -1,0 +1,3 @@
+﻿  pta34.cpp
+D:\pta\pta34\pta34\pta34.cpp(37): warning C4715: “gcd”: 不是所有的控件路径都返回值
+  pta34.vcxproj -> D:\pta\pta34\Debug\pta34.exe
