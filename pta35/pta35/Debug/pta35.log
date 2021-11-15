@@ -1,0 +1,3 @@
+﻿  pta35.cpp
+D:\pta\pta35\pta35\pta35.cpp(28): warning C4715: “fact”: 不是所有的控件路径都返回值
+  pta35.vcxproj -> D:\pta\pta35\Debug\pta35.exe
