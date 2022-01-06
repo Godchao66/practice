@@ -1,0 +1,3 @@
+﻿  使用函数输出水仙花数.cpp
+D:\pta\pta61\pta61\使用函数输出水仙花数.cpp(37,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  pta61.vcxproj -> D:\pta\pta61\Debug\pta61.exe
